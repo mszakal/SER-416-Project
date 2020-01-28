@@ -1,0 +1,12 @@
+body {
+    background-color: #EDEAE5;
+    margin: 0px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.header {
+    height: 150px;
+    background-color: #026670;
+    padding-left: 10%;
+    padding-right: 10%;
+}
